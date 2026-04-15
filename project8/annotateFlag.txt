@@ -1,0 +1,14 @@
+#1 admin password
+SECRET_FLAG_62B0671B5D7D
+
+#2 --db error exploit
+SECRET_FLAG_03F70EDE1DC8
+
+#3 first injection hack
+SECRET_FLAG_AD1DD5C73297
+
+#4 second injection hack
+SECRET_FLAG_181EA954DFA6
+
+#5 third injeciton hack
+SECRET_FLAG_1062771C315A
